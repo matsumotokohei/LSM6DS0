@@ -1,1 +1,1 @@
-# LSM6DS0
+# LSM6DSO
